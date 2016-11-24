@@ -5,7 +5,7 @@ public class B {
     public B() {
         
         //dddd
-        
+        //aaaa
         
         // TODO Auto-generated constructor stub
     }
