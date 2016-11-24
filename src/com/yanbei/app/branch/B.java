@@ -6,6 +6,8 @@ public class B {
         
         //dddd
         //aaaa
+        //
+        //ddd
         
         // TODO Auto-generated constructor stub
     }
